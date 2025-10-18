@@ -66,17 +66,37 @@ Run your program several times for different number of lines of your dataset, N,
 
 Using your favorite graphing software (e.g., MS Excel or Google Sheets), plot the running time (in seconds) and rate (in seconds per node) vs. N for each case, comparing the BST and AVL Trees (i.e., two lines per graph). Take a screenshot of your graph and put them here by modifying this file, committing, and pushing it to this repository.
 
-BST vs. AVL Tree running time (insertion):
-(insert here)
+**BST vs. AVL Tree running time (insertion):**
+<img width="885" height="547" alt="image" src="https://github.com/user-attachments/assets/a132a68b-00db-44a5-a62b-3120a1cf90a9" />
+<br>
 
-BST vs. AVL Tree running time (search):
-(insert here)
+**BST vs. AVL Tree running time (search):**
+<img width="886" height="541" alt="image" src="https://github.com/user-attachments/assets/0390cf75-8fb7-498a-bad2-9d45ee8be2e4" />
+<br>
 
-BST vs. AVL Tree running rate (insertion):
-(insert here)
+**BST vs. AVL Tree running rate (insertion):**
+<img width="892" height="543" alt="image" src="https://github.com/user-attachments/assets/db2eda7c-d521-49af-ad5f-9f89516d29d4" />
+<br>
 
-BST vs. AVL Tree running rate (search):
-(insert here)
+**BST vs. AVL Tree running rate (search):**
+<img width="892" height="544" alt="image" src="https://github.com/user-attachments/assets/13f7fc12-9a72-4580-ad63-e06dd49d2778" />
+<br>
+
+
+## LLM Prompts
+I used Google's LLM to show me a binary search tree insertion class in java (which we have completed already in project 1), and to demonstrate how to use System.nanoTime().
+
+1) Prompt: "binary search tree insertion java example" <br>
+  Result: <br>
+  <img width="682" height="736" alt="image" src="https://github.com/user-attachments/assets/63273ac7-226a-4f0c-807e-c62af2769a00" />
+
+  
+2) Prompt: "how use nanotimer in java" <br>
+   Result:  <br>
+  <img width="495" height="990" alt="image" src="https://github.com/user-attachments/assets/a7486233-ffbf-4a98-b407-28ec5952fb53" />
+
+
+
 
 ## Submission:
 
